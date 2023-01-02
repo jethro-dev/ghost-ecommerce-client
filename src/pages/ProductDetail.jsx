@@ -19,7 +19,7 @@ const ProductDetail = () => {
   useEffect(async () => {
     setIsLoading(true);
     const res = await fetch(
-      `https://ghost-lifestyle.herokuapp.com/api/products/${productId}`
+      `https://ghost-ecommerce-server.onrender.com/api/products/${productId}`
     );
     const product = await res.json();
     setProduct(product);

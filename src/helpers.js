@@ -1,4 +1,4 @@
-const API = "https://ghost-lifestyle.herokuapp.com/api";
+const API = "https://ghost-ecommerce-server.onrender.com/api";
 
 export async function fetchFromAPI(endpoint, opts) {
   const { method, body } = { method: "POST", body: null, ...opts };
