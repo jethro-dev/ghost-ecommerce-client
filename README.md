@@ -33,7 +33,7 @@
     <img src="/public/images/file.svg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Ghost Lifestyle e-commerce application</h3>
+<h3 align="center">Ghost Lifestyle E-commerce (Front-end)</h3>
 
   <p align="center">
     This application is a re-design project for Ghost Lifestyle.
