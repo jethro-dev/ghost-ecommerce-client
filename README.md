@@ -36,7 +36,7 @@
 <h3 align="center">Ghost Lifestyle E-commerce (Front-end)</h3>
 
   <p align="center">
-    This application is a re-design project for Ghost Lifestyle.
+    Ghost Lifestyle is a full-stack e-commerce application. This repo is the front-end application for Ghost Lifestyle e-commerce. Click <a href="https://github.com/jethro-dev/ghost-ecommerce-server">here</a> to go to back-end repo.
     <br />
     <a href="https://github.com/jethro-dev/ghost-ecommerce-client"><strong>Explore the docs »</strong></a>
     <br />
@@ -75,8 +75,7 @@
 ## About The Project
 
 [![Ghost Lifestyle e-commerce Screen Shot][product-screenshot]](https://ghost-lifestyle.vercel.app/)
-
-Front-end application for Ghost Lifestyle e-commerce. Built with `React`, `TailwindCSS`, `Redux`, `Stripe` payments. and more.
+Ghost Lifestyle is a full-stack e-commerce application. This repo is the client application for Ghost Lifestyle e-commerce. Built with `React`, `TailwindCSS`, `Redux`, and more.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,8 +83,8 @@ Front-end application for Ghost Lifestyle e-commerce. Built with `React`, `Tailw
 
 - [![React][react.js]][react-url]
 - [![TailwindCSS][tailwindcss.com]][tailwindcss-url]
-- [![Framer][framer.com]][framer-url]
 - [![Redux][redux.js.org]][redux-url]
+- [![Framer][framer.com]][framer-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
